@@ -13,14 +13,14 @@
 
 ## 🛠️ **Technical Skills**  
 ### Programming Languages  
-[![Programming Languages](https://skillicons.dev/icons?i=js,python,bash,flask,php,java,ruby,go,cpp,c,ts)]
+![Programming Languages](https://skillicons.dev/icons?i=js,python,bash,flask,php,java,ruby,go,cpp,c,ts)
 
 ### Web & Frameworks  
-[![Web & Frameworks](https://skillicons.dev/icons?i=nodejs,react,flask,redis,express,laravel,rails,selenium)]
+![Web & Frameworks](https://skillicons.dev/icons?i=nodejs,react,flask,redis,express,laravel,rails,selenium)
 
 ### Tools & Platforms  
 
-[![Tools & Platforms](https://skillicons.dev/icons?i=linux,aws,gcp,kafka,splunk,figma,canva)]
+![Tools & Platforms](https://skillicons.dev/icons?i=linux,aws,gcp,kafka,figma)
 
 ---
 
