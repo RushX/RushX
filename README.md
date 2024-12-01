@@ -13,24 +13,13 @@
 
 ## 🛠️ **Technical Skills**  
 ### Programming Languages  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![C/C++](https://img.shields.io/badge/-C%2FC++-00599C?logo=cplusplus&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white)  
+(https://skillicons.dev/icons?i=js,python,bash,flask,php,java,ruby,go,cpp,c,ts)
 
 ### Web & Frameworks  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)  
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)  
+(https://skillicons.dev/icons?i=nodejs,react,flask,redis,express,laravel,rails,selenium)
 
 ### Tools & Platforms  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  
-![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white)  
-![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white)  
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white)  
-![Splunk](https://img.shields.io/badge/-Splunk-000000?logo=splunk&logoColor=white)  
+(https://skillicons.dev/icons?i=linux,aws,gcp,kafka,splunk,figma,canva)
 
 ---
 
