@@ -1,7 +1,5 @@
-# 💻 **Rushikesh Muley**  
-
-[![GitHub followers](https://img.shields.io/github/followers/your-github-username?style=social)](https://github.com/your-github-username)  
-🎓 Master's in Cybersecurity @ Northeastern University (2024–2026) | 🌟 Tech Enthusiast | 💼 Freelancer  
+# **rushx@localhost$ ./about.sh**  
+🎓 Master's in Cybersecurity @ Northeastern University (2024–2026) |🪼Pentration Tester | 🌟 Tech Enthusiast | 💼 Freelancer  
 
 ---
 
