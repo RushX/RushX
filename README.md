@@ -41,8 +41,8 @@
 ---
 
 ## 🔍 **Featured Projects**  
-### 1. **[SusDNS](https://github.com/your-susdns-repo)**  
-🚀 DNS-based DGA detection tool themed with Among Us.  
+### 1. **[SusDNS](https://github.com/SuSDNS)**  
+🚀 DNS-based Realtime DGA detection tool.  
 - Combines **machine learning** and **network security** for innovative threat detection.  
 
 ### 2. **[Vaidya Chain](https://github.com/your-susdns-repo)**  
